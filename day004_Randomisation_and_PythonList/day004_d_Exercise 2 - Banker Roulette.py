@@ -5,15 +5,6 @@
 
 #Line 8 splits the string names_string into individual names and puts them inside a List called names. For this to work, you must enter all the names as names followed by comma then space. e.g. name, name, name
 
-
-
-#list1 = "Andy,Henry,Thinh,Cuong,Alvin,Davide,Ray,Alvaro" 
-
-# print(list2)
-
-# for i in range(1):
-#     print(f"{random.choice(list2)} has to pay the bill")
-
 import random
 
 list1 = input("Give me everybody's names, separated by a comma. RANDOM-NAME-HERE is going to buy the meal today! ")
